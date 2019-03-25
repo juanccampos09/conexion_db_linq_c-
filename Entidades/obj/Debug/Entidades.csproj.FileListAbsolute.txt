@@ -1,0 +1,6 @@
+C:\Users\RogStrix2018\Desktop\ejemplos c# web\conexion con linq\conexion con linq\Entidades\bin\Debug\Entidades.dll
+C:\Users\RogStrix2018\Desktop\ejemplos c# web\conexion con linq\conexion con linq\Entidades\bin\Debug\Entidades.pdb
+C:\Users\RogStrix2018\Desktop\ejemplos c# web\conexion con linq\conexion con linq\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\RogStrix2018\Desktop\ejemplos c# web\conexion con linq\conexion con linq\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\RogStrix2018\Desktop\ejemplos c# web\conexion con linq\conexion con linq\Entidades\obj\Debug\Entidades.dll
+C:\Users\RogStrix2018\Desktop\ejemplos c# web\conexion con linq\conexion con linq\Entidades\obj\Debug\Entidades.pdb

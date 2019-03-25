@@ -1,0 +1,12 @@
+C:\Users\RogStrix2018\Desktop\ejemplos c# web\conexion con linq\conexion con linq\Logica\bin\Debug\Logica.dll
+C:\Users\RogStrix2018\Desktop\ejemplos c# web\conexion con linq\conexion con linq\Logica\bin\Debug\Logica.pdb
+C:\Users\RogStrix2018\Desktop\ejemplos c# web\conexion con linq\conexion con linq\Logica\bin\Debug\AccesoDatos.dll
+C:\Users\RogStrix2018\Desktop\ejemplos c# web\conexion con linq\conexion con linq\Logica\bin\Debug\Entidades.dll
+C:\Users\RogStrix2018\Desktop\ejemplos c# web\conexion con linq\conexion con linq\Logica\bin\Debug\AccesoDatos.pdb
+C:\Users\RogStrix2018\Desktop\ejemplos c# web\conexion con linq\conexion con linq\Logica\bin\Debug\AccesoDatos.dll.config
+C:\Users\RogStrix2018\Desktop\ejemplos c# web\conexion con linq\conexion con linq\Logica\bin\Debug\Entidades.pdb
+C:\Users\RogStrix2018\Desktop\ejemplos c# web\conexion con linq\conexion con linq\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\RogStrix2018\Desktop\ejemplos c# web\conexion con linq\conexion con linq\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\RogStrix2018\Desktop\ejemplos c# web\conexion con linq\conexion con linq\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\RogStrix2018\Desktop\ejemplos c# web\conexion con linq\conexion con linq\Logica\obj\Debug\Logica.dll
+C:\Users\RogStrix2018\Desktop\ejemplos c# web\conexion con linq\conexion con linq\Logica\obj\Debug\Logica.pdb

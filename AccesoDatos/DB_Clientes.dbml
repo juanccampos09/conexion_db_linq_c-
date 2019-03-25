@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="PRUEBA1" Class="DB_ClientesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-3P8EI08\SQLEXPRESS;Initial Catalog=PRUEBA1;Integrated Security=True" SettingsObjectName="AccesoDatos.Properties.Settings" SettingsPropertyName="PRUEBA1ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.CLIENTE" Member="CLIENTE">
+    <Type Name="CLIENTE">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="NOMBRE" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="TELEFONO" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Function Name="dbo.SP_ELIMINAR_CLIENTE" Method="SP_ELIMINAR_CLIENTE">
+    <Parameter Name="ID" Parameter="iD" Type="System.Int32" DbType="Int" />
+    <Parameter Name="MSJ" Parameter="mSJ" Type="System.String" DbType="VarChar(100)" Direction="InOut" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.SP_GUARDAR_CLIENTE" Method="SP_GUARDAR_CLIENTE">
+    <Parameter Name="ID" Parameter="iD" Type="System.Int32" DbType="Int" Direction="InOut" />
+    <Parameter Name="NOMBRE" Parameter="nOMBRE" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="TELEFONO" Parameter="tELEFONO" Type="System.String" DbType="VarChar(10)" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>
